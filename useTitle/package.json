@@ -1,0 +1,22 @@
+{
+  "name": "@sonxxx77/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonxxx?tab=repositories"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "title",
+    "hooks"
+  ],
+  "author": "Jeong Song Hee",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
